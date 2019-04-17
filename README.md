@@ -1,4 +1,4 @@
 # neuralnetworkcore
 
-# ![Neural Network Core JS Logo](https://github.com/cucumber-ltd/brand/raw/master/images/png/notm/cucumber-black/cucumber-black-128.png)
+# ![Neural Network Core JS Logo](https://raw.githubusercontent.com/daovietanhuet/neuralnetworkcore/master/logo.png)
 core of neural network
